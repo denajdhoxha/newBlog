@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(#001524, #A31621);
+    width: auto;
+    padding-bottom: 40px;
+}
+
+img{
+    padding-top: 20px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+#container{
+    background: #F7F7F2;
+    margin: 180px auto;
+    padding: 20px 5px;
+    text-align: center;
+    box-shadow: 0 0 50px #001524;
+    border-radius: 5px;
+    width: 500px;
+    align-items: center;
+}
+
+form{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+input{
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+}
